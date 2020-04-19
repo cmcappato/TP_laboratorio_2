@@ -1,0 +1,6 @@
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\Entidades\bin\Debug\Entidades.dll
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\Entidades\bin\Debug\Entidades.pdb
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\Entidades\obj\Debug\Entidades.dll
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\Entidades\obj\Debug\Entidades.pdb

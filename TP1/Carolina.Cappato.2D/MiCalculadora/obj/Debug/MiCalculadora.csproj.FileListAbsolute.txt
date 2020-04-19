@@ -1,0 +1,13 @@
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\bin\Debug\Entidades.dll
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\bin\Debug\Entidades.pdb
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\TP_Laboratorio_2\TP1\Carolina.Cappato.2D\MiCalculadora\obj\Debug\MiCalculadora.pdb
