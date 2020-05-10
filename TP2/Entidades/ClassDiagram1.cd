@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Automovil">
+    <Position X="0.5" Y="0.5" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Automovil.ETipo">
+        <TypeIdentifier>
+          <NewMemberFileName>Automovil.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Automovil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Camioneta">
+    <Position X="0.5" Y="4.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Camioneta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Estacionamiento">
+    <Position X="10.75" Y="0.75" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Estacionamiento.ETipo">
+        <TypeIdentifier>
+          <NewMemberFileName>Estacionamiento.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEQAEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estacionamiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Moto">
+    <Position X="0.5" Y="7.5" Width="3.75" />
+    <InheritanceLine Type="Entidades.Vehiculo" FixedToPoint="true">
+      <Path>
+        <Point X="7.5" Y="7.214" />
+        <Point X="7.5" Y="7.464" />
+        <Point X="5.5" Y="7.464" />
+        <Point X="5.5" Y="7.125" />
+        <Point X="2.5" Y="7.125" />
+        <Point X="2.5" Y="7.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Vehiculo">
+    <Position X="5.75" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Vehiculo.EMarca">
+        <TypeIdentifier>
+          <NewMemberFileName>Vehiculo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Entidades.Vehiculo.ETamanio">
+        <TypeIdentifier>
+          <NewMemberFileName>Vehiculo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQQgAAAAAQAAAACAAAAAACAAAAAAAAAAiA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
