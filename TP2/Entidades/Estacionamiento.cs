@@ -102,20 +102,15 @@ namespace Entidades
         /// <returns></returns>
         public static Estacionamiento operator +(Estacionamiento c, Vehiculo p)
         {
-            if (c.vehiculos.Count >= c.espacioDisponible)
+            if (c.vehiculos.Count() < c.espacioDisponible)
             {
-                return c;
-            }
-
-            foreach (Vehiculo v in c.vehiculos)
-            {
-                if (v == p)
+                foreach (Vehiculo v in c.vehiculos)
                 {
-                    return c;
+                    if (v == p)
+                        return c;
                 }
+                c.vehiculos.Add(p);
             }
-
-            c.vehiculos.Add(p);
             return c;
         }
 
@@ -127,11 +122,11 @@ namespace Entidades
         /// <returns></returns>
         public static Estacionamiento operator -(Estacionamiento c, Vehiculo p)
         {
-            for (int i= 0; i < c.vehiculos.Count; ++i)
+            foreach (Vehiculo v in c.vehiculos)
             {
-                if (c.vehiculos[i] == p)
+                if (v == p)
                 {
-                    c.vehiculos.RemoveAt(i);
+                    c.vehiculos.Remove(v);
                     break;
                 }
             }

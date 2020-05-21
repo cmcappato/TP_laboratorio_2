@@ -34,7 +34,7 @@ namespace Entidades
         /// <param name="marca"></param>
         /// <param name="chasis"></param>
         /// <param name="color"></param>
-        public Automovil(EMarca marca, string codigo, ConsoleColor color) :  base(codigo, marca, color)
+        public Automovil(EMarca marca, string codigo, ConsoleColor color) : this(marca, codigo, color, ETipo.Monovolumen)
         {
         }
 
@@ -46,18 +46,18 @@ namespace Entidades
         /// <param name="color"></param>
         public Automovil(EMarca marca, string codigo, ConsoleColor color, ETipo tipo) : base(codigo, marca, color)
         {
-            this.tipo = ETipo.Monovolumen;
+            this.tipo = tipo;
         }
 
         #endregion
 
         #region Métodos
-        
+
         /// <summary>
         /// Muestro los datos del vehículo 
         /// </summary>
         /// <returns></returns>
-        public override sealed string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
