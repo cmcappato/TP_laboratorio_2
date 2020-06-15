@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Clases_Abstractas.Persona">
+    <Position X="0.5" Y="0.75" Width="5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Clases_Abstractas.Persona.ENacionalidad" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Persona.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAQAAACEAAAAgCAAAAEgAAAAIAAgQAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_Abstractas.Universitario">
+    <Position X="6.25" Y="0.75" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAgAAAAAQAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Universitario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,44 @@
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csprojAssemblyReference.cache
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csproj.CoreCompileInputs.cache
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.AssemblyInfoInputs.cache
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.AssemblyInfo.cs
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csprojAssemblyReference.cache
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.AssemblyInfoInputs.cache
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.AssemblyInfo.cs
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.deps.json
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.runtimeconfig.json
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.runtimeconfig.dev.json
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Archivos.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Abstractas.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Instanciables.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Excepciones.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Archivos.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Instanciables.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Abstractas.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Excepciones.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csproj.CopyComplete
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.deps.json
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.runtimeconfig.json
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.runtimeconfig.dev.json
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases.Test.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Archivos.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Abstractas.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Instanciables.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Excepciones.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Archivos.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Instanciables.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Clases Abstractas.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\bin\Debug\netcoreapp2.1\Excepciones.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csprojAssemblyReference.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.AssemblyInfoInputs.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.AssemblyInfo.cs
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.csproj.CopyComplete
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases.Test\obj\Debug\netcoreapp2.1\Clases.Test.pdb

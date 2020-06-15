@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Clases.Test/1.0.0": {
+        "dependencies": {
+          "Archivos": "1.0.0",
+          "Excepciones": "1.0.0"
+        },
+        "runtime": {
+          "Clases.Test.dll": {}
+        }
+      },
+      "Archivos/1.0.0": {
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "runtime": {
+          "Archivos.dll": {}
+        }
+      },
+      "Clases Abstractas/1.0.0": {
+        "dependencies": {
+          "Excepciones": "1.0.0"
+        },
+        "runtime": {
+          "Clases Abstractas.dll": {}
+        }
+      },
+      "Clases Instanciables/1.0.0": {
+        "dependencies": {
+          "Archivos": "1.0.0",
+          "Clases Abstractas": "1.0.0",
+          "Excepciones": "1.0.0"
+        },
+        "runtime": {
+          "Clases Instanciables.dll": {}
+        }
+      },
+      "Excepciones/1.0.0": {
+        "runtime": {
+          "Excepciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clases.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clases Abstractas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clases Instanciables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excepciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

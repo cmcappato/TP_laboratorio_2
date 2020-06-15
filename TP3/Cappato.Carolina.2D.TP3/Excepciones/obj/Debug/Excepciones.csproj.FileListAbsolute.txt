@@ -1,0 +1,9 @@
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Excepciones\bin\Debug\Excepciones.dll.CodeAnalysisLog.xml
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Excepciones\bin\Debug\Excepciones.dll.lastcodeanalysissucceeded
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

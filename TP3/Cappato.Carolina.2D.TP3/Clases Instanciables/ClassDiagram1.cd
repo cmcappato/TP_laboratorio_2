@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Clases_Instanciables.Alumno" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAgAoAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_Instanciables.Jornada" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECAAAAAgAAAAAAAAAIIQABACEAiA=</HashCode>
+      <FileName>Jornada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_Instanciables.Profesor" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAEgAAAgAAAAAAAAAAAAAQAAAAAAmA=</HashCode>
+      <FileName>Profesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases_Instanciables.Universidad">
+    <Position X="2.25" Y="1.5" Width="3.75" />
+    <NestedTypes>
+      <Enum Name="Clases_Instanciables.Universidad.EClases" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Universidad.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAEyAAAAAgAAgAAAAAAAIEABAAAAiA=</HashCode>
+      <FileName>Universidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

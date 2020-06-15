@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases.Test\\Clases.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Archivos\\Archivos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Archivos\\Archivos.csproj",
+        "projectName": "Archivos",
+        "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Archivos\\Archivos.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases Instanciables\\Clases Instanciables.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases Instanciables\\Clases Instanciables.csproj",
+        "projectName": "Clases Instanciables",
+        "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases Instanciables\\Clases Instanciables.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Archivos\\Archivos.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Archivos\\Archivos.csproj"
+              },
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\ClasesAbstractas\\Clases Abstractas.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\ClasesAbstractas\\Clases Abstractas.csproj"
+              },
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases.Test\\Clases.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases.Test\\Clases.Test.csproj",
+        "projectName": "Clases.Test",
+        "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases.Test\\Clases.Test.csproj",
+        "packagesPath": "C:\\Users\\Caro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Archivos\\Archivos.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Archivos\\Archivos.csproj"
+              },
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases Instanciables\\Clases Instanciables.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases Instanciables\\Clases Instanciables.csproj"
+              },
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\ClasesAbstractas\\Clases Abstractas.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\ClasesAbstractas\\Clases Abstractas.csproj"
+              },
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\ClasesAbstractas\\Clases Abstractas.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\ClasesAbstractas\\Clases Abstractas.csproj",
+        "projectName": "Clases Abstractas",
+        "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\ClasesAbstractas\\Clases Abstractas.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj",
+        "projectName": "Excepciones",
+        "projectPath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Excepciones\\Excepciones.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>Clases.Test.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Archivos\Archivos.csproj" />
+    <ProjectReference Include="..\Clases Instanciables\Clases Instanciables.csproj" />
+    <ProjectReference Include="..\ClasesAbstractas\Clases Abstractas.csproj" />
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj" />
+  </ItemGroup>
+
+</Project>

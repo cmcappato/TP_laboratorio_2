@@ -1,0 +1,11 @@
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Jorgitoh\Desktop\TP3\TP 3\Cappato.Carolina.2D.TP3\Archivos\obj\Debug\Archivos.pdb

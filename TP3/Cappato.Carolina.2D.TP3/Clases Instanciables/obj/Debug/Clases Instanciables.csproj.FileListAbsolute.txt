@@ -1,0 +1,26 @@
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb

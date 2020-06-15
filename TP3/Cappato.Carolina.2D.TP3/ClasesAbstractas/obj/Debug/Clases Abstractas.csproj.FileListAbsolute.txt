@@ -1,0 +1,18 @@
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\caroc\Downloads\TP3-master\TP3\TP 3\Cappato.Carolina.2D.TP3\ClasesAbstractas\obj\Debug\Clases Abstractas.pdb
