@@ -36,7 +36,6 @@ namespace MainCorreo
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)this.correo);
         }
 
-
         /// <summary>
         /// Realiza la carga de los datos y guarda un archivo de texto con informacion en el escritorio
         /// </summary>
@@ -45,7 +44,7 @@ namespace MainCorreo
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
             bool error = false;
-            if (!object.Equals(elemento, null))
+            if (!(elemento is null))
             {
                 string datos = elemento.MostrarDatos(elemento);
                 this.rtbMostrar.Text = datos;

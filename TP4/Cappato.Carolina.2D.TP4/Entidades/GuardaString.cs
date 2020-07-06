@@ -14,11 +14,10 @@ namespace Entidades
         /// <param name="archivo">Nombre del archivo</param>
         /// <returns></returns>
         public static bool Guardar(this string texto, string archivo)
-        {
-            archivo = (object.Equals(archivo, null)) ? "" : archivo;
-
+        {            
             string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\" + archivo;
             bool existe = File.Exists(path);
+
             try
             {
                 using (StreamWriter stream = new StreamWriter(path, existe))
@@ -30,6 +29,7 @@ namespace Entidades
             {
                 return false;
             }
+
             return true;
         } 
 

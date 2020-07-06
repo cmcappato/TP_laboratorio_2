@@ -93,16 +93,6 @@ namespace Entidades
             return MostrarDatos(this);
         }
 
-        public override bool Equals(object obj)
-        {
-            return base.Equals(obj);
-        }
-
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
-
         /// <summary>
         /// Dos paquetes seran iguales si su Tracking ID es el mismo
         /// </summary>

@@ -59,13 +59,12 @@ namespace Entidades
         public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
             string datos = "";
-            if (!object.Equals(elementos, null))
+
+            foreach (Paquete item in ((Correo)elementos).Paquetes)
             {
-                foreach (Paquete item in ((Correo)elementos).Paquetes)
-                {
-                    datos += string.Format("{0} para {1} ({2})\r\n", item.TrackingID, item.DireccionEntrega, item.Estado.ToString());
-                }
+                datos += string.Format("{0} para {1} ({2})\r\n", item.TrackingID, item.DireccionEntrega, item.Estado.ToString());
             }
+
             return datos;
         }
 
@@ -77,20 +76,18 @@ namespace Entidades
         /// <returns>Devuelve el correo</returns>
         public static Correo operator +(Correo c, Paquete p)
         {
-            if (!object.Equals(c, null) && !object.Equals(p, null))
+            foreach (Paquete item in c.Paquetes)
             {
-                foreach (Paquete item in c.Paquetes)
+                if (item == p)
                 {
-                    if (item == p)
-                    {
-                        throw new TrackingIdRepetidoException(string.Format("El Tracking ID {0} ya figura en la lista de envios.", p.TrackingID));
-                    }
+                    throw new TrackingIdRepetidoException(string.Format("El Tracking ID {0} ya figura en la lista de envios.", p.TrackingID));
                 }
-                c.Paquetes.Add(p);
-                Thread cicloDeVida = new Thread(p.MockCicloDeVida);
-                c.mockPaquetes.Add(cicloDeVida);
-                cicloDeVida.Start();
             }
+            c.Paquetes.Add(p);
+            Thread cicloDeVida = new Thread(p.MockCicloDeVida);
+            c.mockPaquetes.Add(cicloDeVida);
+            cicloDeVida.Start();
+
             return c;
         }
 

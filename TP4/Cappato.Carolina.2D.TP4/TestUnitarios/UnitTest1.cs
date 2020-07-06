@@ -23,6 +23,7 @@ namespace TestUnitarios
         public void VerificarCargaPaquetes()
         {
             bool excepcion = false;
+
             Correo correo = new Correo();
             Paquete paqueteUno = new Paquete("paqueteuno@gmail.com", "123");
             Paquete paqueteDos = new Paquete("paquetedos@hotmail.com", "123");
@@ -36,6 +37,7 @@ namespace TestUnitarios
             {
                 excepcion = true;
             }
+
             Assert.IsTrue(excepcion, "No se produjo la excepción esperada al intentar agregar dos paquetes con el mismo TrackingID");
         }
     }
