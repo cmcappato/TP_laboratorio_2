@@ -1,0 +1,2 @@
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 4\Cappato.Carolina.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\caroc\Desktop\FRA\2° Cuatrimestre\Progra II - Labo II\Trabajos Prácticos\TP 4\Cappato.Carolina.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
