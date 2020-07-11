@@ -1,6 +1,6 @@
 ﻿namespace Archivos
 {
-    public abstract class IArchivo<T>
+    public class IArchivo<T>
     {
         #region Metodos
 

@@ -30,10 +30,7 @@ namespace Clases_Instanciables
             }
             set
             {
-                if (!Equals(null, value))
-                {
-                    alumnos = value;
-                }
+                alumnos = value;
             }
         }
 
@@ -48,10 +45,7 @@ namespace Clases_Instanciables
             }
             set
             {
-                if (!Equals(null, value))
-                {
-                    profesores = value;
-                }
+                profesores = value;
             }
         }
 
@@ -66,10 +60,7 @@ namespace Clases_Instanciables
             }
             set
             {
-                if (!Equals(null, value))
-                {
-                    jornada = value;
-                }
+                jornada = value;
             }
         }
 
@@ -95,16 +86,14 @@ namespace Clases_Instanciables
             }
             set
             {
-                if (!Equals(value, null))
+
+                if (i >= 0 && i < Jornadas.Count)
                 {
-                    if (i >= 0 && i < Jornadas.Count)
-                    {
-                        Jornadas[i] = value;
-                    }
-                    else if (i == Jornadas.Count)
-                    {
-                        Jornadas.Add(value);
-                    }
+                    Jornadas[i] = value;
+                }
+                else if (i == Jornadas.Count)
+                {
+                    Jornadas.Add(value);
                 }
             }
         }
@@ -115,7 +104,7 @@ namespace Clases_Instanciables
 
         public static bool Guardar(Universidad uni)
         {
-            return Equals(uni, null) ? false : new Xml<Universidad>().Guardar(@".\Universidad.xml", uni);
+            return new Xml<Universidad>().Guardar(@".\Universidad.xml", uni);
         }
 
         private static string MostrarDatos(Universidad uni)
@@ -163,15 +152,13 @@ namespace Clases_Instanciables
         public static bool operator ==(Universidad g, Alumno a)
         {
             bool indice = false;
-            if (!Equals(g, null))
+
+            foreach (Alumno item in g.Alumnos)
             {
-                foreach (Alumno item in g.Alumnos)
+                if (item == a)
                 {
-                    if (item == a)
-                    {
-                        indice =  true;
-                        break;
-                    }
+                    indice = true;
+                    break;
                 }
             }
 
@@ -199,17 +186,15 @@ namespace Clases_Instanciables
         {
             bool indice = false;
 
-            if (!Equals(g, null))
+            foreach (Profesor item in g.Instructores)
             {
-                foreach (Profesor item in g.Instructores)
+                if (item == i)
                 {
-                    if (item == i)
-                    {
-                        indice = true;
-                        break;
-                    }
+                    indice = true;
+                    break;
                 }
             }
+
             return indice;
         }
 
@@ -232,23 +217,15 @@ namespace Clases_Instanciables
 		/// <returns>Retorna TRUE si la universidad es igual al alumno, FALSE en caso contrario</returns>
         public static Profesor operator ==(Universidad u, EClases clase)
         {
-            Profesor profesor = null;
-            if (!Equals(u, null))
+            foreach (Profesor profesor in u.Instructores)
             {
-                foreach (Profesor item in u.Instructores)
+                if (profesor == clase)
                 {
-                    if (item == clase)
-                    {
-                        profesor = item;
-                        break;
-                    }
+                    return profesor;
                 }
             }
-            if (Equals(profesor, null))
-            {
-                throw new SinProfesorException();
-            }
-            return profesor;
+
+            throw new SinProfesorException();
         }
 
         /// <summary>
@@ -261,22 +238,14 @@ namespace Clases_Instanciables
         {
             Profesor profesor = null;
 
-            if (!Equals(u, null))
+            foreach (Profesor p in u.Instructores)
             {
-                foreach (Profesor item in u.Instructores)
+                if (p != clase)
                 {
-                    if (item != clase)
-                    {
-                        profesor = item;
-                        break;
-                    }
+                    return p;
                 }
             }
 
-            if (Equals(profesor, null))
-            {
-                throw new SinProfesorException();
-            }
             return profesor;
         }
 
@@ -315,16 +284,13 @@ namespace Clases_Instanciables
         /// <returns>Retorna la universidad</returns>
         public static Universidad operator +(Universidad u, Alumno a)
         {
-            if (!Equals(u, null) && !Equals(a, null))
+            if (u != a)
             {
-                if (u == a)
-                {
-                    throw new AlumnoRepetidoException();
-                }
                 u.Alumnos.Add(a);
+                return u;
             }
 
-            return u;
+            throw new AlumnoRepetidoException();
         }
 
         /// <summary>
@@ -335,14 +301,16 @@ namespace Clases_Instanciables
 		/// <returns>Devuelve el objeto de tipo universidad</returns>
         public static Universidad operator +(Universidad u, Profesor i)
         {
-            if (!Equals(u, null) && !Equals(i, null) && u != i)
+            foreach (Profesor profesor in u.Instructores)
             {
-                u.Instructores.Add(i);
+                if (profesor == i)
+                    return u;
             }
+            u.Instructores.Add(i);
             return u;
-        } 
+        }
 
-        #endregion        
+        #endregion
 
         #region Constructor
 
@@ -354,7 +322,7 @@ namespace Clases_Instanciables
             Instructores = new List<Profesor>();
             Alumnos = new List<Alumno>();
             Jornadas = new List<Jornada>();
-        } 
+        }
 
         #endregion
 
@@ -366,7 +334,7 @@ namespace Clases_Instanciables
             Laboratorio,
             Legislacion,
             SPD
-        } 
+        }
 
         #endregion
     }

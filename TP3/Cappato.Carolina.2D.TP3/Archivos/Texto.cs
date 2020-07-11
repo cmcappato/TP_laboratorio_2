@@ -16,18 +16,27 @@ namespace Archivos
         /// <returns>Retorna TRUE si el guardado se hizo correctamente, sino se lanzará una excepcion</returns>
         public override bool Guardar(string archivo, string datos)
         {
-            try
+            bool aux = false;
+
+            if (!string.IsNullOrEmpty(archivo) && !string.IsNullOrEmpty(datos))
             {
-                using (StreamWriter archivoTexto = new StreamWriter(archivo))
+                try
                 {
-                    archivoTexto.WriteLine(datos);
+                    string path = AppDomain.CurrentDomain.BaseDirectory;
+                    using (StreamWriter sw = new StreamWriter(Path.Combine(path, archivo)))
+                    {
+                        sw.WriteLine(datos);
+                        aux = true;
+                    }
+
+                }
+                catch (Exception e)
+                {
+                    throw new ArchivosException(e);
                 }
             }
-            catch (Exception e)
-            {
-                throw new ArchivosException(e);
-            }
-            return true;
+
+            return aux;
         }
 
         /// <summary>
@@ -38,20 +47,26 @@ namespace Archivos
         /// <returns>Retorna TRUE si el archivo fue leido de manera correcta, sino lanza una excepcion</returns>
         public override bool Leer(string archivo, out string datos)
         {
+            bool aux = false;
             datos = "";
 
-            try
+            if (!string.IsNullOrEmpty(archivo))
             {
-                using (StreamReader archivoTexto = new StreamReader(archivo))
+                try
                 {
-                    datos = archivoTexto.ReadToEnd();
+                    string path = AppDomain.CurrentDomain.BaseDirectory;
+                    using (StreamReader sw = new StreamReader(Path.Combine(path, archivo)))
+                    {
+                        datos = sw.ReadToEnd();
+                        aux = true;
+                    }
+                }
+                catch (Exception e)
+                {
+                    throw new ArchivosException(e);
                 }
             }
-            catch (Exception e)
-            {
-                throw new ArchivosException(e);
-            }
-            return true;
+            return aux;
         }
 
         #endregion

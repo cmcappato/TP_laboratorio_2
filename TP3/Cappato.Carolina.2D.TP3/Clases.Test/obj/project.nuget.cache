@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nnVIDnotKIMmM+nD1nrquTXIJRkJ8WVxRQgfmRNhoMo0LkMJBDGLImbOebocN1ZXzE0WhdlJ2Irkz5cAj7f5dQ==",
+  "dgSpecHash": "LDz3JkoPCHQYxTzJNUI1eiHJMh5Y9iCK2fYP1VFW9McfV1SOHlz/RfBw1kE3PsKtGvlBbLP6Edh1wIwccJETvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caro\\Desktop\\FRA\\2° Cuatrimestre\\Progra II - Labo II\\Trabajos Prácticos\\TP 3\\Cappato.Carolina.2D.TP3\\Clases.Test\\Clases.Test.csproj",
+  "projectFilePath": "C:\\Users\\Caro\\Documents\\GitHub\\TP_Laboratorio_2\\TP3\\Cappato.Carolina.2D.TP3\\Clases.Test\\Clases.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caro\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Caro\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

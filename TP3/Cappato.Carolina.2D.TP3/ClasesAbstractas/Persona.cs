@@ -159,13 +159,14 @@ namespace EntidadesAbstractas
         /// <param name="nacionalidad">Nacionalidad de la persona</param>
         /// <param name="dato">DNI</param>
         /// <returns>Retorna el DNI validado</returns>
-        private int ValidarDni(ENacionalidad nacionalidad, int dato)
+        private int ValidarDni(ENacionalidad nacionalidad, int dni)
         {
-            if (nacionalidad == ENacionalidad.Argentino && (dato > 89999999 || dato < 1))
+            if (nacionalidad == ENacionalidad.Argentino && dni >= 1 && dni <= 89999999 || nacionalidad == ENacionalidad.Extranjero && dni > 89999999 && dni <= 99999999)
             {
-                throw new NacionalidadInvalidaException("La nacionalidad no se coincide con el numero de DNI.");
+                return dni;               
             }
-            return dato;
+
+            throw new NacionalidadInvalidaException("La nacionalidad no se coincide con el numero de DNI.");
         }
 
         /// <summary>
@@ -176,15 +177,14 @@ namespace EntidadesAbstractas
         /// <returns>Retorna el DNI validado</returns>
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
-            if (!Equals(dato, null) && (dato.Length > 0 && dato.Length < 9 && int.TryParse(dato, out dni)))
+            if (!string.IsNullOrEmpty(dato) && int.TryParse(dato, out int datoInt))
             {
-                dni = ValidarDni(nacionalidad, dni);
+                return ValidarDni(nacionalidad, datoInt);
             }
             else
             {
-                throw new DniInvalidoException("El DNI posee un error de formato.");
+                throw new DniInvalidoException();
             }
-            return dni;
         }
 
         /// <summary>
@@ -194,17 +194,12 @@ namespace EntidadesAbstractas
         /// <returns></returns>
         private string ValidarNombreApellido(string dato)
         {
-            dato = Equals(dato, null) ? "" : dato;
-            
-            foreach (char item in dato)
+            if (!string.IsNullOrEmpty(dato) && !string.IsNullOrWhiteSpace(dato))
             {
-                if (!char.IsLetter(item))
-                {
-                    dato = "";
-                    break;
-                }
+                return dato;
             }
-            return dato;
+            
+            return "";
         }
 
         #endregion

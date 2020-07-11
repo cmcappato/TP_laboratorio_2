@@ -99,7 +99,9 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static bool Guardar(Jornada jornada)
         {
-            return Equals(jornada, null) ? false : new Texto().Guardar(@".\Jornada.txt", jornada.ToString());
+            Texto txt = new Texto();
+
+            return txt.Guardar("jornada.txt", jornada.ToString());
         }
 
         /// <summary>
@@ -108,8 +110,11 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static string Leer()
         {
-            new Texto().Leer(@".\Jornada.txt", out string datos);
-            return datos;
+            Texto txt = new Texto();
+
+            txt.Leer("jornada.txt", out string aux);
+
+            return aux;
         }
 
         /// <summary>
@@ -121,7 +126,7 @@ namespace Clases_Instanciables
             StringBuilder sb = new StringBuilder();
 
             sb.AppendFormat("CLASE DE {0} POR ", Clase.ToString());
-            sb.AppendLine((object.Equals(Instructor, null)) ? "" : Instructor.ToString());
+            sb.AppendLine(Instructor.ToString());
             sb.AppendLine("ALUMNOS: ");
 
             foreach (Alumno item in Alumnos)
@@ -152,7 +157,7 @@ namespace Clases_Instanciables
 		/// <returns>Retorna TRUE si la jornada es distinta al alumno, FALSE en caso contrario</returns>
         public static bool operator ==(Jornada j, Alumno a)
         {
-            return !Equals(j, null) && a == j.Clase;
+            return (a == j.Clase);
         }
 
         /// <summary>

@@ -101,7 +101,7 @@ namespace Clases_Instanciables
         /// <returns>Retorna TRUE si el alumno es igual a la clase, FALSE si no lo es</returns>
         public static bool operator !=(Alumno a, Universidad.EClases clase)
         {
-            return Equals(a, null) ? true : a.claseQueToma != clase;
+            return (a.claseQueToma != clase);
         }
 
         /// <summary>
@@ -112,7 +112,7 @@ namespace Clases_Instanciables
         /// <returns>Retorna TRUE si el alumno es igual a la clase, FALSE si no lo es</returns>
         public static bool operator ==(Alumno a, Universidad.EClases clase)
         {
-            return !Equals(a, null) && a.claseQueToma == clase && a.estadoCuenta != EEstadoCuenta.Deudor;
+            return (a.claseQueToma == clase && a.estadoCuenta != EEstadoCuenta.Deudor);
         }
 
         #endregion

@@ -28,7 +28,7 @@ namespace Clases_Instanciables
         /// </summary>
         static Profesor()
         {
-            random = new Random();            
+            random = new Random();
         }
 
         /// <summary>
@@ -39,7 +39,7 @@ namespace Clases_Instanciables
         /// <param name="apellido"></param>
         /// <param name="dni"></param>
         /// <param name="nacionalidad"></param>
-        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base (id, nombre, apellido, dni, nacionalidad)
+        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(id, nombre, apellido, dni, nacionalidad)
         {
             claseDelDia = new Queue<Universidad.EClases>();
             _randomClases();
@@ -54,8 +54,13 @@ namespace Clases_Instanciables
         /// </summary>
         private void _randomClases()
         {
-            claseDelDia.Enqueue((Universidad.EClases)random.Next(0, 4));
-            claseDelDia.Enqueue((Universidad.EClases)random.Next(0, 4));
+            int length = Enum.GetNames(typeof(Universidad.EClases)).Length;
+            int random = Profesor.random.Next(1, length);
+
+            claseDelDia.Enqueue((Universidad.EClases)random);
+
+            random = Profesor.random.Next(1, length);
+            claseDelDia.Enqueue((Universidad.EClases)random);
         }
 
         /// <summary>
@@ -104,17 +109,16 @@ namespace Clases_Instanciables
         public static bool operator ==(Profesor i, Universidad.EClases clase)
         {
             bool indice = false;
-            if (!Equals(i, null))
+
+            foreach (Universidad.EClases item in i.claseDelDia)
             {
-                foreach (Universidad.EClases item in i.claseDelDia)
+                if (item == clase)
                 {
-                    if (item == clase)
-                    {
-                        indice = true;
-                        break;
-                    }
+                    indice = true;
+                    break;
                 }
             }
+
             return indice;
         }
 
